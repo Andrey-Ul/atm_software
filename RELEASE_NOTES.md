@@ -1,5 +1,5 @@
 # Release Notes
 
-## 0.1.0-SNAPSHOT
+## 1.0.0
 
-*   -
+*   Console version of ATM software 
